@@ -56,9 +56,9 @@ checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 
 [[package]]
 name = "cpuid-bool"
-version = "0.2.0"
+version = "0.99.99"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "dcb25d077389e53838a8158c8e99174c5a9d902dee4904320db714f3c653ffba"
+checksum = "b6add496828547ea0b72790ee913215c605a70a948b8e9dedf1842054e9eed78"
 
 [[package]]
 name = "crypto-mac"
