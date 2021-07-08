@@ -157,9 +157,9 @@ checksum = "67c21572b4949434e4fc1e1978b99c5f77064153c59d998bf13ecd96fb5ecba7"
 
 [[package]]
 name = "libc"
-version = "0.2.93"
+version = "0.2.98"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "9385f66bf6105b241aa65a61cb923ef20efc665cb9f9bb50ac2f0c4b7f378d41"
+checksum = "320cfe77175da3a483efed4bc0adc1968ca050b098ce4f2f1c13a56626128790"
 
 [[package]]
 name = "md-5"
